@@ -88,7 +88,7 @@ module.exports =
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 4);
+/******/ 	return __webpack_require__(__webpack_require__.s = 3);
 /******/ })
 /************************************************************************/
 /******/ ({
@@ -555,7 +555,8 @@ function (_Component) {
           backgroundImage: "url(/static/images/".concat(_this.props.item.name, ".jpg)"),
           backgroundSize: '100%',
           backgroundRepeat: 'no-repeat',
-          margin: '1em'
+          margin: '1em',
+          cursor: 'pointer'
         },
         __source: {
           fileName: _jsxFileName,
@@ -570,7 +571,7 @@ function (_Component) {
         },
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 25
+          lineNumber: 26
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
@@ -586,7 +587,7 @@ function (_Component) {
         },
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 30
+          lineNumber: 31
         },
         __self: this
       }, _this.props.item.label)));
@@ -1067,7 +1068,7 @@ function (_Component) {
 
 /***/ }),
 
-/***/ 4:
+/***/ 3:
 /*!******************************!*\
   !*** multi ./pages/index.js ***!
   \******************************/
