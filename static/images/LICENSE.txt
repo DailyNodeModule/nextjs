@@ -1,0 +1,3 @@
+The images in this folder were taken from various Wikipedia articles. A list of the articles can be found in the "items.js" file in the components folder of the project's root directory.
+
+All articles are licensed under the Creative Commons Attribution-Share-Alike License 3.0 a copy of which can be found at https://creativecommons.org/licenses/by-sa/3.0/us/

@@ -1,0 +1,22 @@
+{
+  "name": "@dailynodemodule/nextjs",
+  "version": "1.0.0",
+  "description": "A sample project for next.js",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dailynodemodule/nextjs"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Zachary Boyd <zachary@dailynodemodule.com>",
+  "license": "CC0-1.0",
+  "dependencies": {
+    "next": "^8.0.4",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
